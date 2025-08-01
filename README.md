@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumar-s29&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-s29" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **TypeScript**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **swamykumar29603@gmail.com**
 
