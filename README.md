@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kumara Swamy Swayamvarapu</h1>
-<h3 align="center">A Passionate Frontend Web Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate FullStack Developer from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coding" width="400"/>
@@ -75,14 +75,6 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-s29&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kumar-s29&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-s29" alt="GitHub Streak" />
 </p>
 
 ---
