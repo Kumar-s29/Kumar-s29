@@ -270,8 +270,6 @@ Full-stack appointment system with:
 
 ![Snake animation](https://github.com/Kumar-s29/Kumar-s29/blob/output/github-contribution-grid-snake-dark.svg)
 
-> *If the snake doesn't load, set up the [snake workflow](https://github.com/Platane/snk) in your repo.*
-
 </div>
 
 ---
